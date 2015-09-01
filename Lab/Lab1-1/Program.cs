@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Ltos
+
 namespace Lab1_1
 {
     class BubbleSort
